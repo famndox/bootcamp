@@ -1,4 +1,4 @@
-![Header Image](project3.png "My Page Title")
+![Header Image](project13.png "My Page Title")
 =============================
 
 This is a sample Markdown file with a custom header image.
